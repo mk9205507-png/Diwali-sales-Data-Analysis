@@ -103,7 +103,9 @@ The analysis provided the following insights:
 - Pandas
 - Jupyter Notebook
 - Microsoft Power BI
+- Microsoft Excel
 - GitHub
+- 
 
 ---
 
