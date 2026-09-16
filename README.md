@@ -80,8 +80,7 @@ The dashboard includes:
 - Interactive slicers and filters
 
 ### Dashboard Preview
-
-![Diwali Sales Dashboard](Dashboard/dashboard.png)
+![Diwali Sales Dashboard](dashboard.png)
 
 ---
 
